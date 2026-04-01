@@ -38,6 +38,7 @@ const projects = [
       "Kept the interface responsive during long-running scan operations.",
     ],
     tags: ["Python", "Tkinter", "Pillow", "Multithreading"],
+    repoLink: "https://github.com/developershubham01/RecoverX",
   },
   {
     title: "AI Summarizer Pro",
